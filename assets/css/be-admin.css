@@ -1,0 +1,50 @@
+#be-tabs .ui-tabs-active a {
+  color: #fff !important;
+  background-color: #0d6efd !important;
+}
+
+#api {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 8px 16px 0px;
+  padding: 30px 20px;
+  border-radius: 8px;
+  width: 60%;
+  margin-top: 15px;
+}
+
+#be-tabs .be-nav-links {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 8px 16px 0px;
+  margin-right: 20px;
+}
+
+#db-tables {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 8px 16px 0px;
+  padding: 30px 20px;
+  border-radius: 8px;
+  width: 60%;
+  margin-top: 15px;
+}
+
+.common-shadow {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 8px 16px 0px;
+  padding: 30px 20px;
+  border-radius: 8px;
+  width: 60%;
+  margin-top: 15px;
+}
+
+/* endpoints table */
+
+#api-endpoints-table table{
+  width: 100%;
+}
+
+#api-endpoints-table td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+#api-endpoints-table tr:nth-child(even) {
+  background-color: #dddddd;
+}

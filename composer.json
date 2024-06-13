@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1",
+        "automattic/woocommerce": "^3.1",
+        "google/apiclient": "^2.16"
+    }
+}
